@@ -25,6 +25,21 @@ SOC Operations
 - IOC Identification
 - Threat Hunting Fundamentals
 
+📚 Training & Labs
+
+Hands-on Cybersecurity Training
+
+- TryHackMe – SOC Level 1 Path
+- Hack The Box – SOC Analyst Path (In Progress)
+
+Security Certification Learning Tracks
+
+- CompTIA Security+ – Learning Track
+- eJPT – Learning Track
+- ECIR – Learning Track
+
+Continuously developing practical skills through structured learning paths, hands-on labs, and security investigations
+
 SIEM & Detection
 
 - Splunk
