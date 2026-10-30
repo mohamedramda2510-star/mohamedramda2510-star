@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 - JavaScript Deobfuscation
 - KAPE
 - Timeline Explorer
-- Chainsaw
 
  Technical Foundations
 
