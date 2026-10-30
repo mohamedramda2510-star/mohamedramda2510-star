@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🛠️ Technical Skills
+ Technical Skills
 
-🛡️ SOC & Blue Team Operations
+ SOC & Blue Team Operations
 
 - Security Monitoring & Alert Triage
 - Security Incident Investigation
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Incident Response Fundamentals
 - Attack Detection & Investigation
 
-📊 SIEM & Security Tools
+ SIEM & Security Tools
 
 - Splunk
 - Wazuh
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - Sigma Rules
 - YARA Rules
 
-🌐 Networking & Operating Systems
+ Networking & Operating Systems
 
 - Computer Networking & TCP/IP
 - DNS, DHCP, HTTP/HTTPS
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - Windows Server
 - Active Directory
 
-🔎 Digital Forensics & Malware Analysis
+ Digital Forensics & Malware Analysis
 
 - Basic Digital Forensics
 - Windows Artifact Analysis
@@ -58,14 +58,14 @@ Here are some ideas to get you started:
 - Timeline Explorer
 - Chainsaw
 
-💻 Technical Foundations
+ Technical Foundations
 
 - Computer Science Fundamentals
 - Linux Command Line
 - PowerShell Fundamentals
 - JavaScript Fundamentals
 
-🧪 Practical Experience
+ Practical Experience
 
 - Building and Managing a Cybersecurity Home Lab
 - Windows 10 & Windows Server Lab Environment
