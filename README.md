@@ -82,6 +82,13 @@ Digital Forensics & Malware Analysis
 - Incident Response
 - Digital Forensics
 
+  🌐 Connect With Me
+
+- 💼 LinkedIn: "Mohamed Ramdan" (https://www.linkedin.com/in/mohamedramdaneg)
+- 🛡️ TryHackMe: "My Profile" (https://tryhackme.com/p/mohamedramdan25)
+- 💻 Hack The Box: "My Profile" (https://profile.hackthebox.com/profile/01a0aad1-aeda-7344-83b7-abb0d6b274cb)
+- 🐙 GitHub: "My Repositories" (https://github.com/mohamedramda2510-star)
+
 🎯 Career Goal
 
 Seeking to grow as a SOC Analyst, applying practical investigation, detection, and defensive security skills to real-world security operations.
