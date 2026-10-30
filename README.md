@@ -1,52 +1,46 @@
-## Hi there 👋
+👋 Hi, I'm Mohamed Ramdan
 
-<!--
-**mohamedramda2510-star/mohamedramda2510-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Aspiring SOC Analyst | Blue Team | Security Operations
 
-Here are some ideas to get you started:
+Cybersecurity enthusiast focused on SOC operations, security monitoring, threat detection, and incident investigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- Technical Skills
+I have a strong foundation in networking, Windows, Linux, and cybersecurity fundamentals, with hands-on experience building and managing a personal security lab.
 
- SOC & Blue Team Operations
+👨‍💻 About Me
 
-- Security Monitoring & Alert Triage
-- Security Incident Investigation
+- Focused on SOC Level 1 and Blue Team operations.
+- Hands-on experience with SIEM deployment and monitoring.
+- Built a home lab using Windows 10, Windows Server, Kali Linux, Splunk, and Wazuh.
+- Practiced attack simulations and defensive investigations.
+- Currently developing my skills in threat hunting, incident response, and digital forensics.
+
+🛠️ Technical Skills
+
+SOC Operations
+
+- Alert Triage & Investigation
 - True Positive / False Positive Analysis
-- Log Analysis & Event Correlation
+- Security Monitoring & Log Analysis
+- Incident Investigation
 - IOC Identification
 - Threat Hunting Fundamentals
-- Incident Response Fundamentals
-- Attack Detection & Investigation
 
- SIEM & Security Tools
+SIEM & Detection
 
 - Splunk
 - Wazuh
-- Windows Event Viewer
 - Sysmon
-- Sigma Rules
-- YARA Rules
+- Windows Event Viewer
+- Sigma & YARA
 
- Networking & Operating Systems
+Networking & Systems
 
-- Computer Networking & TCP/IP
-- DNS, DHCP, HTTP/HTTPS
-- Network Protocol Analysis
-- Linux Administration Fundamentals
-- Windows Administration
-- Windows Server
-- Active Directory
+- TCP/IP, DNS, DHCP, HTTP/HTTPS
+- Windows & Linux
+- Windows Server & Active Directory
+- PowerShell Fundamentals
 
- Digital Forensics & Malware Analysis
+Digital Forensics & Malware Analysis
 
 - Basic Digital Forensics
 - Windows Artifact Analysis
@@ -54,22 +48,33 @@ Here are some ideas to get you started:
 - Basic Static & Dynamic Malware Analysis
 - Suspicious Script Analysis
 - JavaScript Deobfuscation
-- KAPE
-- Timeline Explorer
+- KAPE, Timeline Explorer, Chainsaw
 
- Technical Foundations
+🧪 Home Lab
 
-- Computer Science Fundamentals
-- Linux Command Line
-- PowerShell Fundamentals
-- JavaScript Fundamentals
+- Windows 10
+- Windows Server & Active Directory
+- Kali Linux
+- Splunk SIEM
+- Wazuh SIEM
+- Attack Simulation & Detection
 
- Practical Experience
+📚 Current Learning
 
-- Building and Managing a Cybersecurity Home Lab
-- Windows 10 & Windows Server Lab Environment
-- Active Directory Lab
-- Kali Linux Attack Simulation
-- SIEM Deployment & Log Monitoring
-- Hands-on Attack Simulation and Detection
-- Security Investigation & Documentation
+- SOC Analyst – Hack The Box
+- Blue Team Operations
+- Threat Hunting
+- Incident Response
+- Digital Forensics
+
+🎯 Career Goal
+
+Seeking to grow as a SOC Analyst, applying practical investigation, detection, and defensive security skills to real-world security operations.
+
+📫 Contact
+
+- GitHub: "Mohamed Ramdan" (https://github.com/mohamedramda2510-star)
+
+---
+
+Learn | Investigate | Detect | Defend
